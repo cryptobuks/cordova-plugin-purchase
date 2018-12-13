@@ -48,11 +48,5 @@
     "uglify-js": "^2.7.4",
     "coveralls": "^2.11.14"
   },
-  "types": "./src/js/index.d.ts",
-  "main": "index.js",
-  "directories": {
-    "doc": "doc",
-    "test": "test"
-  },
-  "dependencies": {}
+  "types": "./src/js/index.d.ts"
 }
